@@ -1,5 +1,4 @@
-# ElevateLabs_Task5_DecisionTrees-RandomForest
-# Elevate Labs AI & ML Internship - Task 5: Decision Trees and Random Forests
+# Decision Trees and Random Forests
 
 ## Objective
 This task focused on understanding and implementing tree-based models (Decision Trees and Random Forests) for classification, including concepts like overfitting, feature importance, and cross-validation.
